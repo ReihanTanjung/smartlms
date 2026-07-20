@@ -56,6 +56,12 @@ grid-template-columns:1fr 1fr;
 
 }
 
+.footer-grid{
+
+        grid-template-columns:1fr 1fr;
+
+    }
+
 }
 
 
@@ -82,5 +88,11 @@ grid-template-columns:1fr;
         padding:18px 20px;
 
     }
+
+    .footer-grid{
+
+    grid-template-columns:1fr;
+
+}
 
 }
