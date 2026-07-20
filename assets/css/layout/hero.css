@@ -1,0 +1,105 @@
+/* ==========================
+        HERO
+========================== */
+
+.hero{
+
+    padding:90px 0;
+
+}
+
+.hero-container{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    gap:60px;
+
+}
+
+.hero-content{
+
+    flex:1;
+
+}
+
+.badge{
+
+    display:inline-block;
+
+    background:#E0E7FF;
+
+    color:var(--primary);
+
+    padding:10px 18px;
+
+    border-radius:50px;
+
+    font-size:14px;
+
+    font-weight:600;
+
+    margin-bottom:25px;
+
+}
+
+.hero-content h1{
+
+    font-size:58px;
+
+    line-height:1.2;
+
+    margin-bottom:25px;
+
+    color:var(--dark);
+
+}
+
+.hero-content h1 span{
+
+    color:var(--primary);
+
+}
+
+.hero-content p{
+
+    color:var(--gray);
+
+    font-size:18px;
+
+    line-height:1.8;
+
+    max-width:600px;
+
+    margin-bottom:40px;
+
+}
+
+.hero-button{
+
+    display:flex;
+
+    gap:20px;
+
+}
+
+.hero-image{
+
+    flex:1;
+
+    display:flex;
+
+    justify-content:center;
+
+}
+
+.hero-image img{
+
+    width:100%;
+
+    max-width:520px;
+
+}

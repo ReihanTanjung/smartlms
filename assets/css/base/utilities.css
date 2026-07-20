@@ -1,0 +1,21 @@
+.container{
+
+    width:90%;
+
+    max-width:1200px;
+
+    margin:auto;
+
+}
+
+.section{
+
+    padding:90px 0;
+
+}
+
+.text-center{
+
+    text-align:center;
+
+}

@@ -1,0 +1,41 @@
+.btn-primary{
+
+    background:var(--primary);
+
+    color:white;
+
+    padding:15px 30px;
+
+    border-radius:var(--radius);
+
+    transition:.3s;
+
+}
+
+.btn-primary:hover{
+
+    background:var(--secondary);
+
+}
+
+.btn-outline{
+
+    border:2px solid var(--primary);
+
+    color:var(--primary);
+
+    padding:15px 30px;
+
+    border-radius:var(--radius);
+
+    transition:.3s;
+
+}
+
+.btn-outline:hover{
+
+    background:var(--primary);
+
+    color:white;
+
+}

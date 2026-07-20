@@ -1,1 +1,0 @@
-console.log("SmartLMS Berhasil Berjalan");
