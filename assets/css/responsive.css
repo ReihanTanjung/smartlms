@@ -75,4 +75,12 @@ grid-template-columns:1fr;
 
 }
 
+    .faq-question{
+
+        font-size:16px;
+
+        padding:18px 20px;
+
+    }
+
 }
