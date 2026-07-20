@@ -1,0 +1,95 @@
+/* ==========================
+        TESTIMONIALS
+========================== */
+
+.testimonials{
+
+    padding:90px 0;
+
+    background:#f8fafc;
+
+}
+
+.testimonial-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:30px;
+
+}
+
+.testimonial-card{
+
+    background:var(--white);
+
+    padding:30px;
+
+    border-radius:var(--radius);
+
+    box-shadow:var(--shadow);
+
+    transition:.3s;
+
+}
+
+.testimonial-card:hover{
+
+    transform:translateY(-8px);
+
+}
+
+.avatar{
+
+    width:70px;
+
+    height:70px;
+
+    border-radius:50%;
+
+    background:#dbeafe;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    font-size:30px;
+
+    margin-bottom:20px;
+
+}
+
+.quote{
+
+    color:var(--gray);
+
+    line-height:1.8;
+
+    margin-bottom:20px;
+
+}
+
+.rating{
+
+    color:#f59e0b;
+
+    margin-bottom:15px;
+
+}
+
+.user-name{
+
+    font-weight:700;
+
+}
+
+.user-role{
+
+    color:var(--gray);
+
+    font-size:14px;
+
+}

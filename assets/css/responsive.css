@@ -50,6 +50,12 @@ grid-template-columns:1fr 1fr;
 
 }
 
+.testimonial-grid{
+
+    grid-template-columns:1fr;
+
+}
+
 }
 
 
